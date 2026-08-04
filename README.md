@@ -1,4 +1,4 @@
-### Matthew Griffin
+### Matthew D. Griffin
 
 **Senior / Staff Full-Stack Engineer** (15+ yrs)  
 📍 Valencia, Spain (US Citizen)  
