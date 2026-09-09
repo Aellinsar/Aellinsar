@@ -1,6 +1,6 @@
 ### Matthew D. Griffin
 
-**Senior / Staff Full-Stack Engineer** (15+ yrs)  
+**Staff Full-Stack Engineer** (15+ yrs)  
 📍 Valencia, Spain (US Citizen)  
 💳 *US W2 Remote Compliant via Form CA3822 (US-Spain Totalization Agreement) | Digital Nomad Visa (DNV) Eligible*
 
