@@ -17,11 +17,9 @@ Full-stack engineer with 15+ years building high-throughput distributed backends
 * **[Esedre](https://esedre.com)** (`npm install -g esedre`): Git-backed developer roadmap, ticketing engine, CLI (`ese`), and Model Context Protocol (MCP) server for developers and LLM coding partners.  
   [Repository](https://github.com/Aellinsar/esedre) | [npm Package](https://www.npmjs.com/package/esedre) | [esedre.com](https://esedre.com)
 
-* **[Sleep Lab 151](https://sleep.lab151.com)**: Pokémon Sleep companion centered on an interactive research chat with streaming LLM integration, in-browser screenshot scanning, and full Pokémon box and team management.  
-  [sleep.lab151.com](https://sleep.lab151.com)
+* **[Sleep Lab 151](https://sleep.lab151.com)**: Pokémon Sleep companion centered on an interactive research chat with streaming LLM integration, in-browser screenshot scanning, and full Pokémon box and team management.
 
-* **[Alce](https://alce.arwam.com)**: Dual-language e-reader for Android featuring private on-device translations and instant vocabulary extraction without cloud dependencies.  
-  [alce.arwam.com](https://alce.arwam.com)
+* **[Alce](https://alce.arwam.com)**: Dual-language e-reader for Android featuring private on-device translations and instant vocabulary extraction without cloud dependencies.
 
 * **Portfolio:** [arwam.com](https://arwam.com)
 
