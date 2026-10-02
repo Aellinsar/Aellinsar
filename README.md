@@ -2,7 +2,7 @@
 
 **Staff Full-Stack Engineer** (15+ yrs)  
 📍 Valencia, Spain (US Citizen)  
-🇺🇸 *US W2 Remote Compliant via Form CA3822 (US-Spain Totalization Agreement) | Digital Nomad Visa (DNV) Eligible*
+*US W2 Remote Compliant via Form CA3822 (US-Spain Totalization Agreement) | Digital Nomad Visa (DNV) Eligible*
 
 ---
 
@@ -26,4 +26,4 @@ Full-stack engineer with 15+ years building high-throughput distributed backends
 * **Portfolio:** [arwam.com](https://arwam.com)
 
 #### Stack
-`Java (8-25)` • `Spring Boot` • `PostgreSQL` • `C# / .NET` • `React 19` • `TypeScript` • `MobX` • `AWS (SQS FIFO / Aurora)` • `Kubernetes` • `RabbitMQ`
+`Java (4-25)` • `Spring Boot` • `PostgreSQL` • `C# / .NET` • `React 19` • `TypeScript` • `MobX` • `AWS (SQS FIFO / Aurora)` • `Kubernetes` • `RabbitMQ`
